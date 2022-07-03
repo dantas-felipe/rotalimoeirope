@@ -9,6 +9,8 @@ Site em deenvolvimento...
 Liver server que é instalado como extensão do VSCODE.
 Wampp server que é instalado como software no Windows.
 
+ou acessar o link https://dantas-felipe.github.io/rotalimoeirope/
+
 
 ## 🛠️ Construído com
 
